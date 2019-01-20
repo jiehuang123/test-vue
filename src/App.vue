@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <label>黄杰的vue</label>
+    <label>huangjie-vue</label>
     <img src="./assets/logo.png">
     <router-view/>
   </div>
